@@ -35,9 +35,9 @@ class ViewController: UIViewController {
         }
 
         if flag {
-            result.text = "Prime"
+            result.text = " Not Prime"
         }else{
-            result.text = "not Prime"
+            result.text = "Prime"
         }
         
         
